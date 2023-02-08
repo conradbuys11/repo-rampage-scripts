@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae1939dc7c9fac04eb9e2d004cc82e10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Score_GO: {instanceID: 0}
+  - Health_GO: {instanceID: 0}
+  - PauseMenu: {instanceID: 0}
+  - loseScreen: {instanceID: 0}
+  - shopScreen: {instanceID: 0}
+  - LastEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
